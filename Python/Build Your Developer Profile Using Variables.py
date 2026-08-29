@@ -24,4 +24,8 @@ print(type(CompanyName))
 print(type(CurrentLearningTopic))
 print(type(YearsOfExperience))
 print(type(LikesPython))
+<<<<<<< HEAD
 print(type(ExpectedSalary))
+=======
+print(type(ExpectedSalary))
+>>>>>>> 72231c2 (Initial commit)
